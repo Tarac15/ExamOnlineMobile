@@ -1,33 +1,37 @@
 📱 ExamOnlineMobile
 
-ExamOnlineMobile adalah aplikasi mobile berbasis React Native yang dirancang untuk memudahkan proses ujian secara daring (online) bagi siswa.
+ExamOnlineMobile is a mobile application built with React Native, designed to simplify the online examination process for students.
 
-🚀 Fitur Utama
+🚀 Key Features
 
-- 🔐 Autentikasi login pengguna
-- 🗓️ Menampilkan jadwal ujian
-- 📝 Mengerjakan soal ujian secara langsung dari aplikasi
-- 📊 Menampilkan hasil ujian
-- 🔄 Sinkronisasi data dengan backend API
+- 🔐 User authentication (login)
+- 🗓️ Display exam schedules
+- 📝 Take exams directly within the app
+- 📊 View exam results
+- 🔄 Synchronize data with backend API
 
-🛠️ Teknologi yang Digunakan
+🛠️ Technologies Used
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- REST API (untuk integrasi backend)
+- React Native
+- Expo
+- REST API (for backend integration)
 
-📦 Instalasi dan Menjalankan Aplikasi
+📦 Installation and Running the App
 
-1. Clone repo ini
-   ```bash
+Clone this repository:
+   ```
+   bash
+   Copy
+   Edit
    git clone https://github.com/Tarac15/ExamOnlineMobile.git
    cd ExamOnlineMobile
+   ```
 
-2. Install dependencies di folder mobile
+For mobile: 
+- https://reactnative.dev/docs/environment-setup 
+- https://docs.expo.dev/get-started/set-up-your-environment/
+
+for backend: 
+- Install Dependencies
    ```
    npm install
-   
-4. Jalankan aplikasi dengan Expo
-   ```
-   npx expo start
-
