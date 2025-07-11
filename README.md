@@ -35,3 +35,6 @@ for backend:
 - Install Dependencies
    ```
    npm install
+- Start the backend server:
+  ```
+  node npm start
