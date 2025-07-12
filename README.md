@@ -15,6 +15,9 @@ ExamOnlineMobile is a mobile application built with React Native, designed to si
 - React Native
 - Expo
 - REST API (for backend integration)
+- Node.js
+- Express.js
+- MongoDB 
 
 ## 📦 Installation and Running the App
 
