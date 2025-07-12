@@ -38,12 +38,14 @@ for backend:
 
 🖥️ Screenshot of the Application
 
-<img width="1365" height="719" alt="Screenshot 2025-01-09 175725" src="https://github.com/user-attachments/assets/75dedabc-36cf-4ce1-ad90-df4d3f394148" />
+<img width="282" height="624" alt="Screenshot 2025-06-10 221855" src="https://github.com/user-attachments/assets/d56bc726-a30e-485e-84c2-5902784987b3" />
 
-<img width="1365" height="718" alt="Screenshot 2025-01-09 175305" src="https://github.com/user-attachments/assets/74c5359b-25ef-4f42-8acf-8a7c81fd4bdf" />
+<img width="277" height="623" alt="Screenshot 2025-06-10 222016" src="https://github.com/user-attachments/assets/1cc6ba20-3632-42d3-891c-1ae05842a804" />
 
-<img width="1365" height="718" alt="Screenshot 2025-01-09 195128" src="https://github.com/user-attachments/assets/19be91d6-9698-4520-8004-79f58d1ab949" />
+<img width="282" height="623" alt="Screenshot 2025-06-10 222358" src="https://github.com/user-attachments/assets/b7c6249a-8aa0-4b26-8471-c107ecd9e50e" />
 
-<img width="1366" height="720" alt="Vite + React - Google Chrome 1_9_2025 5_59_01 PM" src="https://github.com/user-attachments/assets/1412567d-134a-469f-b298-990000121a80" />
+<img width="283" height="624" alt="Screenshot 2025-06-10 222451" src="https://github.com/user-attachments/assets/6762662d-a831-46a2-afaa-a89197d887ef" />
 
-<img width="1366" height="720" alt="Vite + React - Google Chrome 1_9_2025 6_05_02 PM" src="https://github.com/user-attachments/assets/eacf3eb4-06ab-4acd-aab5-f9b828b8b5ad" />
+<img width="280" height="625" alt="Screenshot 2025-06-10 222509" src="https://github.com/user-attachments/assets/2a78f432-3ee7-432f-9b1a-a4aeb37a84ca" />
+
+<img width="280" height="624" alt="Screenshot 2025-06-10 222657" src="https://github.com/user-attachments/assets/b6d1ba0d-e56e-4a55-84f2-b2ff876a1bdd" />
