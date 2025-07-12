@@ -20,9 +20,6 @@ ExamOnlineMobile is a mobile application built with React Native, designed to si
 
 Clone this repository:
    ```
-   bash
-   Copy
-   Edit
    git clone https://github.com/Tarac15/ExamOnlineMobile.git
    cd ExamOnlineMobile
    ```
