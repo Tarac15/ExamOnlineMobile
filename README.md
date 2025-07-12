@@ -1,8 +1,8 @@
-📱 ExamOnlineMobile
+# 📱 ExamOnlineMobile
 
 ExamOnlineMobile is a mobile application built with React Native, designed to simplify the online examination process for students.
 
-🚀 Key Features
+## 🚀 Key Features
 
 - 🔐 User authentication (login)
 - 🗓️ Display exam schedules
@@ -10,13 +10,13 @@ ExamOnlineMobile is a mobile application built with React Native, designed to si
 - 📊 View exam results
 - 🔄 Synchronize data with backend API
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - React Native
 - Expo
 - REST API (for backend integration)
 
-📦 Installation and Running the App
+## 📦 Installation and Running the App
 
 Clone this repository:
    ```
@@ -28,7 +28,7 @@ For mobile:
 - https://reactnative.dev/docs/environment-setup 
 - https://docs.expo.dev/get-started/set-up-your-environment/
 
-for backend: 
+For backend: 
 - Install Dependencies
    ```
    npm install
@@ -36,7 +36,7 @@ for backend:
   ```
   node npm start
 
-🖥️ Screenshot of the Application
+## 🖥️ Screenshot of the Application
 
 <img width="282" height="624" alt="Screenshot 2025-06-10 221855" src="https://github.com/user-attachments/assets/d56bc726-a30e-485e-84c2-5902784987b3" />
 
