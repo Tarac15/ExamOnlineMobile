@@ -47,7 +47,6 @@ for backend:
 
 <img width="1365" height="718" alt="Screenshot 2025-01-09 195128" src="https://github.com/user-attachments/assets/19be91d6-9698-4520-8004-79f58d1ab949" />
 
-<img width="1365" height="719" alt="Screenshot 2025-01-09 195423" src="https://github.com/user-attachments/assets/65243e9d-1f60-47ba-b2ba-299ca131af0e" />
+<img width="1366" height="720" alt="Vite + React - Google Chrome 1_9_2025 5_59_01 PM" src="https://github.com/user-attachments/assets/1412567d-134a-469f-b298-990000121a80" />
 
 <img width="1366" height="720" alt="Vite + React - Google Chrome 1_9_2025 6_05_02 PM" src="https://github.com/user-attachments/assets/eacf3eb4-06ab-4acd-aab5-f9b828b8b5ad" />
-
